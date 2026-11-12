@@ -1,5 +1,6 @@
 # Viaje de 7 dias de Oriol Mamani Ignacio
 Practica RA5
+Tabla de seis herramientas de Google
 | Herramienta | Propósito | Público |
 |---|---|---|
 | Gmail | Enviar y recibir correos electrónicos. | Estudiantes, empresas y particulares. |
