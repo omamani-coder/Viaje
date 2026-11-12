@@ -11,7 +11,7 @@ Tabla de seis herramientas de Google
 | Google Sheets | Crear hojas de cálculo y presupuestos. | Estudiantes y empresas. |
 | Google Meet | Realizar videollamadas. | Empresas, profesores y estudiantes. |
 
-Diferencia entre IMAP y POP3
+Diferencia entre IMAP y POP3:
 
 IMAP: Permite consultar los correos desde diferentes dispositivos y mantiene los mensajes sincronizados con el servidor.
 
