@@ -16,3 +16,11 @@ Diferencia entre IMAP y POP3:
 IMAP: Permite consultar los correos desde diferentes dispositivos y mantiene los mensajes sincronizados con el servidor.
 
 POP3: Descarga los correos al dispositivo y normalmente no mantiene la misma sincronización entre varios dispositivos.
+
+IMAP-POP3-SMTP
+
+| Servicio | Servidor | Puerto | Seguridad |
+|---|---|---|---|
+| IMAP | imap.gmail.com | 993 | SSL/TLS |
+| POP3 | pop.gmail.com | 995 | SSL/TLS |
+| SMTP | smtp.gmail.com | 465 o 587 | SSL/TLS o STARTTLS |
