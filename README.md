@@ -28,50 +28,76 @@ IMAP-POP3-SMTP
 
 ---
 
-# 📸 Evidencias de la práctica
+---
 
-## 1. Comprobación de etiquetas
+# 📸 Evidencias y comprobaciones
+
+## 1. Configuración de etiquetas en Gmail
 
 <table>
 <tr>
-<td width="45%" align="center">
+<td width="45%">
 <img src="Capturas/Comprobacion%20de%20etiquetas.png" width="100%">
 </td>
 <td width="55%">
-<h3>Comprobación de etiquetas</h3>
-En esta captura se muestra la comprobación de las etiquetas creadas en Gmail para organizar y clasificar los correos electrónicos.
+<h3>Creación de etiquetas</h3>
+En esta captura se muestra la configuración de las etiquetas de Gmail. Se han creado las etiquetas necesarias para organizar los correos electrónicos y facilitar su clasificación.
 </td>
 </tr>
 </table>
 
----
-
-## 2. Configuración IMAP
+## 2. Prueba de envío y recepción de correo
 
 <table>
 <tr>
-<td width="45%" align="center">
+<td width="45%">
+<img src="Capturas/Correo_prueba_de_etiquetas.png" width="100%">
+</td>
+<td width="55%">
+<h3>Correo de prueba</h3>
+Se ha enviado un correo electrónico de prueba para comprobar que los filtros de Gmail funcionan correctamente y que los mensajes se clasifican según las condiciones configuradas.
+</td>
+</tr>
+</table>
+
+## 3. Comprobación de la etiqueta desde otra cuenta
+
+<table>
+<tr>
+<td width="45%">
+<img src="Capturas/Comprobaciodeetiquetas_vistadesdeel.png" width="100%">
+</td>
+<td width="55%">
+<h3>Verificación desde otra cuenta</h3>
+En esta captura se comprueba cómo aparece el correo recibido desde la otra cuenta de Gmail y si se le ha aplicado correctamente la etiqueta correspondiente.
+</td>
+</tr>
+</table>
+
+## 4. Configuración del protocolo IMAP
+
+<table>
+<tr>
+<td width="45%">
 <img src="Capturas/IMAP.png" width="100%">
 </td>
 <td width="55%">
-<h3>Configuración IMAP</h3>
-En esta captura se muestra la configuración del protocolo IMAP en Gmail. Este protocolo permite acceder a los correos electrónicos desde diferentes dispositivos y mantenerlos sincronizados.
+<h3>Activación de IMAP</h3>
+Se muestra la configuración del protocolo IMAP en Gmail, que permite sincronizar los correos electrónicos entre diferentes dispositivos.
 </td>
 </tr>
 </table>
 
----
-
-## 3. Comprobación del mensaje original
+## 5. Comprobación del mensaje original
 
 <table>
 <tr>
-<td width="45%" align="center">
+<td width="45%">
 <img src="Capturas/Mensajeoriginal.png" width="100%">
 </td>
 <td width="55%">
-<h3>Mensaje original</h3>
-En esta captura se muestran los resultados de autenticación del correo electrónico:
+<h3>Autenticación del correo electrónico</h3>
+En esta captura se muestran los resultados de las comprobaciones de autenticación:
 <ul>
 <li><strong>SPF:</strong> PASS.</li>
 <li><strong>DKIM:</strong> PASS.</li>
@@ -82,18 +108,16 @@ SPF y DKIM se validaron correctamente, mientras que DMARC no superó la comproba
 </tr>
 </table>
 
----
-
-## 4. Respuesta automática
+## 6. Configuración de la respuesta automática
 
 <table>
 <tr>
-<td width="45%" align="center">
+<td width="45%">
 <img src="Capturas/Respuesta%20automatica.png" width="100%">
 </td>
 <td width="55%">
 <h3>Respuesta automática</h3>
-En esta captura se muestra la configuración de la respuesta automática de Gmail. Esta función permite enviar un mensaje automáticamente a las personas que escriben durante un periodo determinado.
+Se muestra la configuración de la respuesta automática de Gmail. Esta función permite enviar automáticamente un mensaje a las personas que escriben durante un periodo determinado.
 </td>
 </tr>
 </table>
