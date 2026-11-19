@@ -120,7 +120,21 @@ SPF y DKIM se validaron correctamente, mientras que DMARC no superó la comproba
 <h3>Respuesta automática</h3>
 Se muestra la configuración de la respuesta automática de Gmail. Esta función permite enviar automáticamente un mensaje a las personas que escriben durante un periodo determinado.
 </td>
+
 </tr>
 </table>
 
+## 7. Comprobación del filtro de publicidad
+
+<table>
+<tr>
+<td width="45%">
+<img src="Capturas/Publicitat.png" width="100%">
+</td>
+<td width="55%">
+<h3>Filtro de publicidad</h3>
+En esta captura se muestra la comprobación del filtro de publicidad de Gmail, que permite identificar y organizar automáticamente los correos publicitarios.
+</td>
+</tr>
+</table>
 ---
