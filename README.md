@@ -17,6 +17,7 @@ IMAP: Permite consultar los correos desde diferentes dispositivos y mantiene los
 
 POP3: Descarga los correos al dispositivo y normalmente no mantiene la misma sincronización entre varios dispositivos.
 
+
 IMAP-POP3-SMTP
 
 | Servicio | Servidor | Puerto | Seguridad |
