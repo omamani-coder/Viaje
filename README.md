@@ -138,3 +138,24 @@ En esta captura se muestra la comprobación del filtro de publicidad de Gmail, q
 </tr>
 </table>
 ---
+
+# FASE 3 – EL VIATGE 🇮🇹
+
+## 1. Ruta alternativa
+Debido al bloqueo de Google Maps en el centro educativo, se ha realizado una ruta alternativa en formato documento, incluyendo los desplazamientos, las ciudades, las actividades y los precios.
+
+📄 [Ver documento de la ruta](Capturas/Alternativa%20de%20Uso%20del%20maps%20bloqueado-1.pdf)
+
+## 2. Calendario del viaje
+Se ha creado un calendario en Google Calendar con los siete días del viaje, incluyendo las ciudades, las actividades y las fechas correspondientes.
+
+📅 [Ver calendario](PEGA_AQUI_EL_ENLACE_DE_GOOGLE_CALENDAR)
+
+![Calendario](Capturas/CALENDARIO.png)
+
+## 3. Presupuesto del viaje
+Se ha elaborado una hoja de cálculo con los gastos de transporte, alojamiento, comida y otros gastos. También se han utilizado fórmulas SUM e IF para calcular el presupuesto total y comprobar si se ajusta al límite establecido.
+
+📊 [Ver presupuesto en Google Sheets](PEGA_AQUI_EL_ENLACE_DE_GOOGLE_SHEETS)
+
+📸 [Ver captura del presupuesto](Capturas/PRESUPUESTO%20-%20Hoja%201.pdf)
