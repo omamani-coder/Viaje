@@ -178,3 +178,22 @@ S'ha comprovat que tenim accés al full de càlcul i al calendari, i que els per
 S'ha comprovat la configuració de seguretat del compte de Google i s'ha verificat la configuració de la verificació en dues passes.
 
 📄 **[Consultar el PDF de configuració de la verificació en dues passes](Capturas/Configuracion%20de%202%20pasos.pdf)**
+
+## 4. Permisos i proves
+
+### 1. Comprovació d'accessos i permisos
+S'ha comprovat que tenim accés al full de càlcul i al calendari, i que els permisos estan configurats correctament.
+
+### 2. Verificació en dues passes
+S'ha comprovat la configuració de seguretat del compte de Google i s'ha verificat que la verificació en dues passes està activada.
+
+📄 **[Consultar el PDF de configuració de la verificació en dues passes](Capturas/Configuracion%20de%202%20pasos.pdf)**
+
+### 3. Invitació i ruta del viatge
+S'ha convidat un amic a consultar el calendari del viatge, compartint-hi els detalls de la ruta i les activitats programades.
+
+![Invitació i ruta del viatge](Capturas/Captura%20desde%202026-11-25%2010-00-50.png)
+
+---
+
+**I així queda tot preparat per a una aventura inoblidable. Serà un viatge espectacular!** ✈️
