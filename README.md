@@ -153,9 +153,18 @@ Se ha creado un calendario en Google Calendar con los siete días del viaje, inc
 
 ![Calendario](Capturas/CALENDARIO.png)
 
-## 3. Presupuesto del viaje
-Se ha elaborado una hoja de cálculo con los gastos de transporte, alojamiento, comida y otros gastos. También se han utilizado fórmulas SUM e IF para calcular el presupuesto total y comprobar si se ajusta al límite establecido.
+## 3. Pressupost del viatge
 
-📊 [Ver presupuesto en Google Sheets](PEGA_AQUI_EL_ENLACE_DE_GOOGLE_SHEETS)
+S'ha elaborat un full de càlcul amb un pressupost detallat del viatge a Itàlia, incloent-hi les despeses de transport, allotjament, menjar i altres despeses.
 
-📸 [Ver captura del presupuesto](Capturas/PRESUPUESTO%20-%20Hoja%201.pdf)
+El full incorpora fórmules `SUM` i `IF` per calcular automàticament el cost total i comprovar si el viatge s'ajusta al pressupost màxim de 1.500 €.
+
+**Resultat del pressupost:**
+- Transport: 282 €
+- Allotjament: 455 €
+- Menjar: 210 €
+- Altres despeses: 100 €
+- **Total: 1.047 €**
+- Diners restants: 453 €
+
+📊 **[Consultar el full de càlcul del pressupost (PDF)](<Capturas/PRESUPUESTO - Hoja 1-1.pdf>)**
