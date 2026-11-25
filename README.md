@@ -168,3 +168,13 @@ El full incorpora fórmules `SUM` i `IF` per calcular automàticament el cost to
 - Diners restants: 453 €
 
 📊 **[Consultar el full de càlcul del pressupost (PDF)](<Capturas/PRESUPUESTO - Hoja 1-1.pdf>)**
+
+## 4. Permisos i proves
+
+### 1. Comprovació d'accessos i permisos
+S'ha comprovat que tenim accés al full de càlcul i al calendari, i que els permisos estan configurats correctament.
+
+### 2. Verificació en dues passes
+S'ha comprovat la configuració de seguretat del compte de Google i s'ha verificat la configuració de la verificació en dues passes.
+
+📄 **[Consultar el PDF de configuració de la verificació en dues passes](Capturas/Configuracion%20de%202%20pasos.pdf)**
